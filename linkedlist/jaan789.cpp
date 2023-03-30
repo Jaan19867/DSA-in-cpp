@@ -22,6 +22,7 @@ Node *takeinput(){
     cin>>data; }
     return head;
 }
+cout<<" hellow World"<<endl;
 
 
 
